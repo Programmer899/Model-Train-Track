@@ -30,3 +30,16 @@ Not only that, the train wheels are also detachable giving you the opertunity to
 ![Train](Images/ModelTrain_2.png)
 ![Train](Images/ModelTrain_8.png)
 ![Train](Images/ModelTrain_6.png)
+
+### - Tracks
+The tracks are also not too comples. They are built so that the outer part of the track touching the train's wheels are a bit higher then the inner giving you some room for movement. This will come in handy when the train wants to take corners and turn.
+The tracks are yousing a quite simple interlocking system. It is simply 2 circles and a bridging in between making the track pieces able to grab around the edges and hold in place.
+![ModelTrain-Tracks_7](Images/ModelTrain-Tracks_7.png)
+![ModelTrain-Tracks_1](Images/ModelTrain-Tracks_1.png)
+![ModelTrain-Tracks_2](Images/ModelTrain-Tracks_2.png)
+![ModelTrain-Tracks_4](Images/ModelTrain-Tracks_4.png)
+![ModelTrain-Tracks_5](Images/ModelTrain-Tracks_5.png)
+![ModelTrain-Tracks_9](Images/ModelTrain-Tracks_9.png)
+![ModelTrain-Tracks_11](Images/ModelTrain-Tracks_11.png)
+![ModelTrain-Tracks_7](Images/ModelTrain-Tracks_7.png)
+![ModelTrain-Tracks_12](Images/ModelTrain-Tracks_12.png)
