@@ -137,4 +137,7 @@ To create the straight piece aswell as the curve I had to import the train aswel
 
 ![ModelTrain-Tracks_5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/01e324bfd51992423d6272007a6c44f22ab0260c38575b1b9acc94538af04d3d.png)
 
+To summerize - tl;dr:
+The model train track is done. A bit thinking power needed but I got it working. Tracks can connect and it is quite simple to add more tracks in the future.
+
 [Timelapse](https://lookout.hackclub.com/api/media/07040dff-6abb-4971-874a-18b96ffabecb/video.mp4)
