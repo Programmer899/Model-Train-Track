@@ -43,3 +43,12 @@ The tracks are yousing a quite simple interlocking system. It is simply 2 circle
 ![ModelTrain-Tracks_11](Images/ModelTrain-Tracks_11.png)
 ![ModelTrain-Tracks_7](Images/ModelTrain-Tracks_7.png)
 ![ModelTrain-Tracks_12](Images/ModelTrain-Tracks_12.png)
+
+---
+### - Build Of Materials
+| Item                     | Qty | Supplier   | Cost/item | Total Cost | link                                    |
+|--------------------------|-----|------------|-----------|------------|-----------------------------------------|
+| 3D Printing              | 1   | West Print | $31.32    | $31.32     | https://www.treatstock.com/c/west-print |
+|                          |     |            |           |            |                                         |
+| Estimated total shipping | 1   |            |           | $13.42     |                                         |
+| TOTAL                    |     |            |           | $44.74     |                                         |
