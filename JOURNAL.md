@@ -17,7 +17,7 @@
 1. [2026-10-16 – # October 17 - Started work on my Model Train Track](#2026-10-16-october-17---started-work-on-my-model-train-track)
 2. [2026-10-18 – # October 18 - Finished Train Model](#2026-10-18-october-18---finished-train-model)
 3. [2026-10-18 – # October 18 - Started work on the tracks for my model train](#2026-10-18-october-18---started-work-on-the-tracks-for-my-mo)
-4. [2026-10-18 – Work session](#2026-10-18-work-session)
+4. [2026-10-18 – # October 18 - Finished train track work](#2026-10-18-october-18---finished-train-track-work)
 
 ## Design
 
@@ -108,8 +108,31 @@ In the end, this tl;dr! was that I finished my train and have started work on th
 
 [Timelapse](https://lookout.hackclub.com/api/media/e920fba2-2c90-40c9-881b-3c4134aa7534/video.mp4)
 
-### 2026-10-18 – Work session
+### 2026-10-18 – # October 18 - Finished train track work
 
 **1.47h**
+
+# October 18 - Finished train track work
+### - What has changed
+I finished my work on the straight track. In addition to finishing the straight track I managed to figure out how the track parts would connect to eachother. To get the to connect to each other I am using almost like an infinity symbol as the interlocking system.
+
+![ModelTrain-Tracks_12](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/f30e8a92273382d090048c221bc81ff9b4d69c4c2540840008280342598a9cc3.png)
+
+![ModelTrain-Tracks_11](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/00a9a9ed9899863fef4e4f4c8e72034881c4bebe41d682252403eb48758f5970.png)
+
+![ModelTrain-Tracks_7](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/f1faae513b30e130d1ecca0f00135dc5721cdd040836fd7977887069918b9c0c.png)
+
+![ModelTrain-Tracks_6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/883b73b1321ed427aa9e83107221300da140215930b707dca15153308de2f39d.png)
+
+![ModelTrain-Tracks_4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/9c7c902600c39a65cc8b89c7fdd406170c2b27306ad439fcb2d48882acb3d37e.png)
+
+![ModelTrain-Tracks_1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/c0308787669346afe80c866a410b776401a3dd96dbe3d588f5725d57c0cceb1c.png)
+
+### - Finished work
+To create the straight piece aswell as the curve I had to import the train aswell as the straight piece into the curve. It took me some minutes figuring out where the import button itself was. After I found it I were able to import the train, getting the straight piece to look nice aswell as the locking system. After the straight piece were done I imported it into the curve giving me the profile (sweep) needed to make the curve look nice.
+
+![ModelTrain-Tracks_10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/1ee6a58d8937a4c398a9e8dbfecf072b0f20b34c51ecdde8c05e44290bd19d66.png)
+
+![ModelTrain-Tracks_5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/01e324bfd51992423d6272007a6c44f22ab0260c38575b1b9acc94538af04d3d.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/07040dff-6abb-4971-874a-18b96ffabecb/video.mp4)
