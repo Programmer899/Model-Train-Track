@@ -79,6 +79,8 @@ In addition you also want to make the most inner part of the wheel wider then th
 
 ![ModelTrain_5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/368fb2aac22461eac15c76ffc47e97f67bee584d354c0d39999c200624035843.png)
 
+tl;dr: Finished the train model and onto the tracks.
+
 [Timelapse](https://lookout.hackclub.com/api/media/8ebcbb32-2ec3-4957-959b-81bb1baffcbc/video.mp4)
 
 ### 2026-10-18 – # October 18 - Started work on the tracks for my model train
